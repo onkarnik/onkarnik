@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @onkarnik
 - 👀 I’m interested in Bikes & cars, swimming and video games.
-- 🌱 I’m currently learning Full stack development
-  - java stack
+- 🌱 I’m currently working on Full stack development
   - MERN stack
-  - .Net stack
 - 💞️ I’m looking to collaborate on Web development projects with variety of use cases. 
 - 📫 Leave a mail at onkarnik@gmail.com or connect me on linkdin.
 
